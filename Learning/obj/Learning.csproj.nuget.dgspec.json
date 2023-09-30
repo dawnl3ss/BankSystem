@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\neptu\\Desktop\\Neptune\\Programming\\C#\\Learning\\Learning\\Learning.csproj": {}
+    "C:\\Users\\neptu\\Desktop\\Neptune\\Programming\\C#\\BankSystem\\Learning\\Learning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\neptu\\Desktop\\Neptune\\Programming\\C#\\Learning\\Learning\\Learning.csproj": {
+    "C:\\Users\\neptu\\Desktop\\Neptune\\Programming\\C#\\BankSystem\\Learning\\Learning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neptu\\Desktop\\Neptune\\Programming\\C#\\Learning\\Learning\\Learning.csproj",
+        "projectUniqueName": "C:\\Users\\neptu\\Desktop\\Neptune\\Programming\\C#\\BankSystem\\Learning\\Learning.csproj",
         "projectName": "Learning",
-        "projectPath": "C:\\Users\\neptu\\Desktop\\Neptune\\Programming\\C#\\Learning\\Learning\\Learning.csproj",
+        "projectPath": "C:\\Users\\neptu\\Desktop\\Neptune\\Programming\\C#\\BankSystem\\Learning\\Learning.csproj",
         "packagesPath": "C:\\Users\\neptu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neptu\\Desktop\\Neptune\\Programming\\C#\\Learning\\Learning\\obj\\",
+        "outputPath": "C:\\Users\\neptu\\Desktop\\Neptune\\Programming\\C#\\BankSystem\\Learning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\neptu\\AppData\\Roaming\\NuGet\\NuGet.Config"
